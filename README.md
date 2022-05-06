@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/sqlnice?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)
+
 <!--
 **sqlnice/sqlnice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
